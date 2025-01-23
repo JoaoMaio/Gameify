@@ -12,8 +12,4 @@ This project was created in 2022, using Flutter for the App, Python as an API Se
 
 # Video
 
-<div align="center">
-    <video height="600" controls>
-        <source src="AppWorking.mp4" type="video/mp4">
-    </video>
-</div>
+[Watch the video](AppWorking.mp4)
